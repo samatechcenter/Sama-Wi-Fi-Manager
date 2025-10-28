@@ -1,7 +1,7 @@
 // Default credentials
 const DEFAULT_CREDENTIALS = {
-    username: 'admin',
-    password: 'admin123'
+    username: '/1/1/1',
+    password: '//////'
 };
 
 // Initialize app variables
@@ -2489,4 +2489,5 @@ window.addEventListener('storage', function(e) {
 });
 
 // ==================== END OF SCRIPT ====================
+
 
